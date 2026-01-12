@@ -1,7 +1,7 @@
 import requests
 
-IPSTACK_API_KEY = '93b13c5e42afe1b85da29da306db7964'
-OPENWEATHER_API_KEY = '62e590132ba34cbbff6cda67d96be2e0'
+IPSTACK_API_KEY = "Chave aqui"
+OPENWEATHER_API_KEY = "#Chave aqui"
 
 try:
     url_ipstack = f'http://api.ipstack.com/check?access_key={IPSTACK_API_KEY}'
